@@ -5,7 +5,7 @@ Reusable agent skills for Claude Code and other AI coding agents.
 ## Install
 
 ```bash
-npx skills add https://github.com/giorgioliapakis/agent-skills --skill keyword-researcher
+npx skills add https://github.com/giorgioliapakis/agent-skills/tree/main/skills/keyword-researcher
 ```
 
 ## Skills
