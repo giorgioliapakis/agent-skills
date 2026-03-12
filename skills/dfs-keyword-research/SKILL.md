@@ -2,11 +2,10 @@
 name: dfs-keyword-research
 description: |
   Keyword research, SERP analysis, and competitor intelligence via the dfs CLI (data-4-seo-cli).
-  Use this skill whenever the user asks about keyword volumes, search difficulty, keyword ideas,
-  SERP features, competitor rankings, domain overlap, or content analysis. Also use it when
-  building content briefs, doing competitor gap analysis, or checking what keywords a domain
-  ranks for. Prefer dfs over raw DataForSEO MCP tools because it returns 10-20x smaller responses
-  that fit in context windows. Requires: npm install -g data-4-seo-cli
+  Returns 10-20x smaller responses than raw DataForSEO API, optimized for agent context windows.
+  Use when asked about keyword volumes, search difficulty, keyword ideas, SERP features, competitor
+  rankings, domain overlap, content analysis, content briefs, or competitor gap analysis.
+  Requires: npm install -g data-4-seo-cli
 ---
 
 # DFS Keyword Research

@@ -2,10 +2,16 @@
 
 Reusable agent skills for Claude Code and other AI coding agents.
 
-## Install
+## Quick Start
 
 ```bash
-npx skills add https://github.com/giorgioliapakis/agent-skills/tree/main/skills/<skill-name>
+npx skills add giorgioliapakis/agent-skills
+```
+
+Or install a specific skill:
+
+```bash
+npx skills add giorgioliapakis/agent-skills --skill dfs-keyword-research
 ```
 
 ## Skills

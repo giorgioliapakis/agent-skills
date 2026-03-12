@@ -1,10 +1,10 @@
 ---
 name: meta-ads-management
 description: |
-  Manage Meta (Facebook/Instagram) Ads via the meta-ads CLI. Use this skill whenever the user
-  asks about Meta ad campaigns, ad sets, ads, creatives, or performance insights. Also trigger
-  when users want to pause/activate campaigns, check ad performance, list accounts, get
-  breakdowns by age/gender/placement, or do bulk operations on Meta ads.
+  Meta (Facebook/Instagram) Ads campaign management, insights, and bulk operations via the
+  meta-ads CLI. Lists campaigns, ad sets, and ads, pulls performance insights with breakdowns,
+  pauses/activates items, and exports data. Use when asked about Meta ad performance, campaign
+  management, ad creative review, audience breakdowns, or bulk ad operations.
   Requires: npm install -g meta-ads-cli
 ---
 

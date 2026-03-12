@@ -1,10 +1,10 @@
 ---
 name: nb-image-generation
 description: |
-  Generate and edit images via the nanobanana CLI (Gemini image models).
-  Use this skill whenever the user asks to create images, edit photos, restore old images,
-  generate icons, create patterns, produce visual sequences, or make diagrams. Also trigger
-  on casual requests like "make me an image", "touch this up", "create a logo", or "visualize this".
+  Image generation, editing, and restoration via the nanobanana CLI (Gemini image models).
+  Generates images from text, edits existing photos, restores old images, creates icons, patterns,
+  visual sequences, and diagrams. Use when asked to create images, edit photos, make logos, generate
+  icons, design patterns, visualize concepts, or restore damaged photos.
   Requires: npm install -g @giorgioliapakis/nanobanana
 ---
 
